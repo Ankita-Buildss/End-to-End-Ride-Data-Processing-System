@@ -8,6 +8,8 @@ The objective is to build a scalable data platform where Uber ride events are ge
 
 The solution follows the **Databricks Lakehouse Architecture** and **Medallion Architecture (Bronze, Silver, and Gold layers)** to organize data processing, improve data quality, and support scalable analytics.
 
+![Uber Analytics Pipeline](screenshots/uber_ui.png)
+
 ---
 
 # Data Flow Architecture
