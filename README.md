@@ -116,7 +116,13 @@ Auto CDC is implemented to manage changing data using:
 
 ---
 
-![Uber Analytics Pipeline](screenshots/uber_pipeline.png)
+<div align="center">
+
+<img src="screenshots/uber_pipeline.png" alt="Uber Analytics Pipeline" width="600"/>
+
+<p><em>Figure: End-to-end Uber Analytics Pipeline built using Databricks Medallion Architecture</em></p>
+
+</div>
 ---
 
 # Final Outcome
